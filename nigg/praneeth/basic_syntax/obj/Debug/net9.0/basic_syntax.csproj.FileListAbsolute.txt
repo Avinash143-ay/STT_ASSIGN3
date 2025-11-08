@@ -1,0 +1,14 @@
+C:\Users\pilla\OneDrive\Desktop\praneeth\basic_syntax\bin\Debug\net9.0\basic_syntax.exe
+C:\Users\pilla\OneDrive\Desktop\praneeth\basic_syntax\bin\Debug\net9.0\basic_syntax.deps.json
+C:\Users\pilla\OneDrive\Desktop\praneeth\basic_syntax\bin\Debug\net9.0\basic_syntax.runtimeconfig.json
+C:\Users\pilla\OneDrive\Desktop\praneeth\basic_syntax\bin\Debug\net9.0\basic_syntax.dll
+C:\Users\pilla\OneDrive\Desktop\praneeth\basic_syntax\bin\Debug\net9.0\basic_syntax.pdb
+C:\Users\pilla\OneDrive\Desktop\praneeth\basic_syntax\obj\Debug\net9.0\basic_syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pilla\OneDrive\Desktop\praneeth\basic_syntax\obj\Debug\net9.0\basic_syntax.AssemblyInfoInputs.cache
+C:\Users\pilla\OneDrive\Desktop\praneeth\basic_syntax\obj\Debug\net9.0\basic_syntax.AssemblyInfo.cs
+C:\Users\pilla\OneDrive\Desktop\praneeth\basic_syntax\obj\Debug\net9.0\basic_syntax.csproj.CoreCompileInputs.cache
+C:\Users\pilla\OneDrive\Desktop\praneeth\basic_syntax\obj\Debug\net9.0\basic_syntax.dll
+C:\Users\pilla\OneDrive\Desktop\praneeth\basic_syntax\obj\Debug\net9.0\refint\basic_syntax.dll
+C:\Users\pilla\OneDrive\Desktop\praneeth\basic_syntax\obj\Debug\net9.0\basic_syntax.pdb
+C:\Users\pilla\OneDrive\Desktop\praneeth\basic_syntax\obj\Debug\net9.0\basic_syntax.genruntimeconfig.cache
+C:\Users\pilla\OneDrive\Desktop\praneeth\basic_syntax\obj\Debug\net9.0\ref\basic_syntax.dll
