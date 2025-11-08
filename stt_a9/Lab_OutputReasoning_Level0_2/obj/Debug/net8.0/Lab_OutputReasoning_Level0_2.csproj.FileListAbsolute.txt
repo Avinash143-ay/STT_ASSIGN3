@@ -1,0 +1,4 @@
+C:\Users\GUDA AVINASH REDDY\OneDrive - iitgn.ac.in\Desktop\stt_a9\Lab_OutputReasoning_Level0_2\obj\Debug\net8.0\Lab_OutputReasoning_Level0_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUDA AVINASH REDDY\OneDrive - iitgn.ac.in\Desktop\stt_a9\Lab_OutputReasoning_Level0_2\obj\Debug\net8.0\Lab_OutputReasoning_Level0_2.AssemblyInfoInputs.cache
+C:\Users\GUDA AVINASH REDDY\OneDrive - iitgn.ac.in\Desktop\stt_a9\Lab_OutputReasoning_Level0_2\obj\Debug\net8.0\Lab_OutputReasoning_Level0_2.AssemblyInfo.cs
+C:\Users\GUDA AVINASH REDDY\OneDrive - iitgn.ac.in\Desktop\stt_a9\Lab_OutputReasoning_Level0_2\obj\Debug\net8.0\Lab_OutputReasoning_Level0_2.csproj.CoreCompileInputs.cache

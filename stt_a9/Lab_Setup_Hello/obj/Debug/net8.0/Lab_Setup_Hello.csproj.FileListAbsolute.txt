@@ -1,0 +1,14 @@
+C:\Users\GUDA AVINASH REDDY\OneDrive - iitgn.ac.in\Desktop\stt_a9\Lab_Setup_Hello\bin\Debug\net8.0\Lab_Setup_Hello.exe
+C:\Users\GUDA AVINASH REDDY\OneDrive - iitgn.ac.in\Desktop\stt_a9\Lab_Setup_Hello\bin\Debug\net8.0\Lab_Setup_Hello.deps.json
+C:\Users\GUDA AVINASH REDDY\OneDrive - iitgn.ac.in\Desktop\stt_a9\Lab_Setup_Hello\bin\Debug\net8.0\Lab_Setup_Hello.runtimeconfig.json
+C:\Users\GUDA AVINASH REDDY\OneDrive - iitgn.ac.in\Desktop\stt_a9\Lab_Setup_Hello\bin\Debug\net8.0\Lab_Setup_Hello.dll
+C:\Users\GUDA AVINASH REDDY\OneDrive - iitgn.ac.in\Desktop\stt_a9\Lab_Setup_Hello\bin\Debug\net8.0\Lab_Setup_Hello.pdb
+C:\Users\GUDA AVINASH REDDY\OneDrive - iitgn.ac.in\Desktop\stt_a9\Lab_Setup_Hello\obj\Debug\net8.0\Lab_Setup_Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUDA AVINASH REDDY\OneDrive - iitgn.ac.in\Desktop\stt_a9\Lab_Setup_Hello\obj\Debug\net8.0\Lab_Setup_Hello.AssemblyInfoInputs.cache
+C:\Users\GUDA AVINASH REDDY\OneDrive - iitgn.ac.in\Desktop\stt_a9\Lab_Setup_Hello\obj\Debug\net8.0\Lab_Setup_Hello.AssemblyInfo.cs
+C:\Users\GUDA AVINASH REDDY\OneDrive - iitgn.ac.in\Desktop\stt_a9\Lab_Setup_Hello\obj\Debug\net8.0\Lab_Setup_Hello.csproj.CoreCompileInputs.cache
+C:\Users\GUDA AVINASH REDDY\OneDrive - iitgn.ac.in\Desktop\stt_a9\Lab_Setup_Hello\obj\Debug\net8.0\Lab_Setup_Hello.dll
+C:\Users\GUDA AVINASH REDDY\OneDrive - iitgn.ac.in\Desktop\stt_a9\Lab_Setup_Hello\obj\Debug\net8.0\refint\Lab_Setup_Hello.dll
+C:\Users\GUDA AVINASH REDDY\OneDrive - iitgn.ac.in\Desktop\stt_a9\Lab_Setup_Hello\obj\Debug\net8.0\Lab_Setup_Hello.pdb
+C:\Users\GUDA AVINASH REDDY\OneDrive - iitgn.ac.in\Desktop\stt_a9\Lab_Setup_Hello\obj\Debug\net8.0\Lab_Setup_Hello.genruntimeconfig.cache
+C:\Users\GUDA AVINASH REDDY\OneDrive - iitgn.ac.in\Desktop\stt_a9\Lab_Setup_Hello\obj\Debug\net8.0\ref\Lab_Setup_Hello.dll
